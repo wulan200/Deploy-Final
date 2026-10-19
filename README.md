@@ -27,8 +27,3 @@ validasi eksternal terhadap musim.
 5. **Validasi Musiman** – Chi-square, Cramér's V, ARI/NMI terhadap musim, heatmap komposisi.
 6. **Interpretasi & Hasil** – ringkasan, karakteristik klaster, pola temporal, uji beda, keterbatasan,
    dan **cek reproduksi** terhadap output notebook.
-
-## Penamaan klaster
-Nama klaster (mis. "Monsun basah") ditetapkan manual oleh peneliti pada notebook. Aplikasi hanya
-menerapkannya bila sebaran klaster K-Means identik dengan penelitian (K=3; 1379/1990/1014 hari);
-selain itu klaster diberi nama generik agar tidak keliru.
