@@ -1,24 +1,3 @@
-# Clustering Algorithm Comparison and Seasonal Validation for Daily Weather Patterns in Bima Regency
-
-Aplikasi web **Streamlit** untuk mendemonstrasikan penelitian yang telah dipublikasikan:
-perbandingan empat algoritma klasterisasi (K-Means, Gaussian Mixture Model, Self-Organizing Map,
-Hierarchical/Ward) pada data cuaca harian NASA POWER Kabupaten Bima, NTB (2014–2025), beserta
-validasi eksternal terhadap musim.
-
-## Struktur proyek
-```text
-.
-├── app.py             
-├── pipeline.py       
-├── plots.py           
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── data/
-    ├── README.md
-    └── nasa_power_bima_raw.csv   
-```
-
 ## Halaman aplikasi
 1. **Beranda** – judul, tujuan, dataset, metode, parameter, lingkungan komputasi.
 2. **Dataset** – data mentah, kualitas data, statistik & distribusi, korelasi, transformasi.
